@@ -21,7 +21,7 @@ metaInfo:
     []
   tags:
     []
-  lensName: Untitled
+  lensName: Expo EdStudio
   lensDescriptors:
     []
   lensApplicability:
@@ -31,9 +31,9 @@ metaInfo:
     - Mobile
     - Web
   platformBundlesEnabled: false
-  iconHash: ""
-  videoPreviewHash: ""
+  iconHash: 8aeabcb1f2424ef720634faf6b0b0b15
+  videoPreviewHash: 854dc95d7398887f73380a7bf1bbce5d
   fromTemplateName: Default
   fromTemplateUrl: Lens Studio 5.4.0.24121706
-  activationCamera: Front
+  activationCamera: Rear
   sourceMapEnabled: false
