@@ -58,9 +58,10 @@ def get_all_images_from_folder(folder_path):
 
 # Exemple d'utilisation
 textures_folder = "../textures"
+output_folder = "../../Assets/Image"
 images = get_all_images_from_folder(textures_folder)
 print(f"Images trouvées : {images}")
 
 for image_path in images:
-    output_path = os.path.join(textures_folder, f"mosaic_{os.path.basename(image_path)}")
+    output_path = os.path.join(output_folder, f"marker_{os.path.basename(image_path)}")
     create_random_mosaic(image_path, output_path)
