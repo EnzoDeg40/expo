@@ -2,11 +2,12 @@
   ImportedAssetIds:
     .hidden/Background: !<reference> ae52800b-9b88-4790-9caa-9044b65eded2
     .hidden/white: !<reference> 508f4430-b02b-42c2-a621-4630976691b8
-    28911abb9a92acb7: !<reference> 0177d1f8-78fa-43df-a9bb-d6acb2f8d505
-    429ae09569ba4e18: !<reference> 48db9273-b9c2-430e-b265-9778e504601b
-    66780cf3a4dcb2b8: !<reference> c6555649-d4ab-4f46-96d6-de4aa73ff46f
-    867d56f2a14a2da7: !<reference> 5b43c46a-89de-4be4-ac51-0c628e6bce7a
-    975cdb5457aa3fbf: !<reference> 6ce62bd1-e7dc-4547-97a7-1cc83ff4e60e
+    079a32674fd6ff0e: !<reference> 534fa044-41ab-45e8-8782-aa09d0f2daaa
+    290bea2cc6ed2692: !<reference> f39e86de-eccd-4369-bdc3-33968c318f6f
+    599e8aa6d06439ea: !<reference> 0f8d4d3b-e5e8-47db-9b19-2fa7c6af8413
+    78aee876a93bf393: !<reference> 83549518-49f2-4232-83ef-313ef955b33d
+    7a0dd5cd69df73fa: !<reference> 419aee56-72d2-4315-99cc-ebfdaa05b00e
+    89e2bbd37df7a821: !<reference> 88d315f3-4bf9-4940-89aa-87c853d046ee
     Materials/Background: !<reference> 6ee903c7-c5bf-4fdd-8cba-5ce87a314c69
     Materials/Background|Background|GraphPassInfo: !<reference> d5145888-aa58-4130-99d2-6623e25d5d04
     Materials/Frame: !<reference> b8b702a6-4f25-4cac-9ca1-82c59df00341
@@ -17,9 +18,8 @@
     Meshes/Frame: !<reference> 2db5902c-3ba6-4983-9965-0e997583ff93
     Meshes/Image: !<reference> 95bfbe76-cdff-477f-b006-efd5dc7e937c
     Scene: !<reference> 988ef2b7-ac87-47d0-8ec9-c5ba4889bc84
-    Textures/rails: !<reference> e0489df3-3eb8-481f-8a24-8b8784c919bd
-    d41553c5c6ed4d7c: !<reference> 0b798179-daec-4546-b766-13f18197267b
-    f749ea673c89a0fe: !<reference> 9ec6e4fd-2b8b-4ef7-8cab-478da44b6a01
+    Textures/rails: !<reference> 2c12185b-fbf8-4c52-8e37-86259d1aff4d
+    b844de1f63bdafba: !<reference> 1a45cfd7-f33e-4bce-9e6c-7e8f80c76690
   ImporterName: FbxImporter
   PrimaryAsset: !<reference> 988ef2b7-ac87-47d0-8ec9-c5ba4889bc84
   PackageType: LegacyPackage
