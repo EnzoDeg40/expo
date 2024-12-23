@@ -31,8 +31,8 @@ metaInfo:
     - Mobile
     - Web
   platformBundlesEnabled: false
-  iconHash: 8aeabcb1f2424ef720634faf6b0b0b15
-  videoPreviewHash: 854dc95d7398887f73380a7bf1bbce5d
+  iconHash: 92e53f7abcd0e38e819e3ba547825565
+  videoPreviewHash: 349b577a987e7df68389bdd7480277c8
   fromTemplateName: Default
   fromTemplateUrl: Lens Studio 5.4.0.24121706
   activationCamera: Rear

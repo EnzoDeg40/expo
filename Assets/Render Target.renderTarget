@@ -4,7 +4,7 @@
   Resolution:
     x: 900
     y: 1600
-  AntialiasingMode: Disabled
+  AntialiasingMode: MSAA
   AntialiasingQuality: Ultra
   MSAAStrategy: OnlyWhenRequired
   ClearColorOption: BackgroundTexture
