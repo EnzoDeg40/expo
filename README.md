@@ -2,9 +2,7 @@
 
 Transform your space into a virtual photo exhibition with this interactive Snapchat filter! Using augmented reality and image recognition, this lens overlays artworks onto walls, creating a unique and immersive gallery experience through the Snapchat app.
 
-| No Filter | With Filter |
-| --- | --- |
-| <video controls src="Extern/preview-nofilter.mp4"></video> | <video controls src="Extern/preview-filter.mp4"></video> |
+https://github.com/user-attachments/assets/6925d4f9-0dfc-45c9-9b11-0489388e4d08
 
 ## Features
 
